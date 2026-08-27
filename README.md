@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEnq2ukcN3Rwg/profile-displaybackgroundimage-shrink_350_1400/B56Z_B2h4DHYAU-/0/1785663725309?e=1787184000&v=beta&t=MlFZ1EdkbOMtgMtYM8FYaaOxY0ViEz1GwzOcMSuMYYk" width="100%" />
-</p>
+
+
+![My Profile](https://media.licdn.com/dms/image/v2/D5616AQEnq2ukcN3Rwg/profile-displaybackgroundimage-shrink_350_1400/B56Z_B2h4DHYAU-/0/1785663725309?e=1789603200&v=beta&t=kaI5NLOphsfkKfE0DrlLTR07hZMZrapzt3ZaSkDwPOs)
+
 # 👋 Hi, I'm Mahedi Hasan Shanto
 
 ## Frontend Developer \| JavaScript Enthusiast \| Building Modern Web Experiences
